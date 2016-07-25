@@ -1,1 +1,2 @@
-http://C1-SoftwareEngineeringSummit.github.io/GitExercise/index.html
+###View Site
+- https://github.kdc.capitalone.com/pages/xvo202/gitExercises/
