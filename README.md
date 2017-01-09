@@ -1,2 +1,2 @@
 ###View Site
-- https://github.kdc.capitalone.com/pages/xvo202/gitExercises/
+- see url above or the settings for this repo
